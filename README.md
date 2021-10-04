@@ -6,7 +6,7 @@ In the main directory, you can run the following scripts to install and use the 
 
 ### `npm start`
 
-##Test task for Kuehne+Nagel Front-end Internship program
+## Test task for Kuehne+Nagel Front-end Internship program
 
 TECH: React, Redux-toolkit, Redux-Thunk
 CSS Table Template: https://www.creative-tim.com/product/fresh-bootstrap-table
