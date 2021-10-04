@@ -1,6 +1,6 @@
 ## Available Scripts
 
-In the main directory, you can run following scripts to install and use the project:
+In the main directory, you can run the following scripts to install and use the project:
 
 ### `npm install`
 
