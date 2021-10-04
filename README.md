@@ -19,13 +19,13 @@ Mobile-Friendly
 
 App functionality:
 
-Data is fetched using async/await Fetch API queries;
+- Data is fetched using async/await Fetch API queries;
 
-Each shipment row can be deleted;
+- Each shipment row can be deleted;
 
-Each shipment row details can be viewed in the separate modal window;
+- Each shipment row details can be viewed in the separate modal window;
 
-Each shipment row's input can be changed and saved;
+- Each shipment row's input can be changed and saved;
 
-Details window is can be closed by clicking outside of the window;
+- Details window is can be closed by clicking outside of the window;
 
